@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "qS4D5B6vBE/qIPZj9KD6LFRgyZPsOTOJdLdVyR9zRMc=",
+  "Source": "User_module",
+  "BasePath": "_content/User_module",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "User_module\\wwwroot",
+      "Source": "User_module",
+      "ContentRoot": "F:\\c#\\Toursim_Trail\\User_module\\wwwroot\\",
+      "BasePath": "_content/User_module",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

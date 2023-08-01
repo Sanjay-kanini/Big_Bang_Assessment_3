@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\c#\\Toursim_Trail\\Tours\\wwwroot\\uploads\\11b61f66-382d-4d70-8ff1-58a574a05fee.png",
+      "PackagePath": "staticwebassets\\uploads\\11b61f66-382d-4d70-8ff1-58a574a05fee.png"
+    },
+    {
+      "Id": "F:\\c#\\Toursim_Trail\\Tours\\wwwroot\\uploads\\3566ba30-34aa-4018-bb80-d07aed58e331.png",
+      "PackagePath": "staticwebassets\\uploads\\3566ba30-34aa-4018-bb80-d07aed58e331.png"
+    },
+    {
+      "Id": "F:\\c#\\Toursim_Trail\\Tours\\wwwroot\\uploads\\41f77bf2-964c-4945-b206-6d35bce53107.png",
+      "PackagePath": "staticwebassets\\uploads\\41f77bf2-964c-4945-b206-6d35bce53107.png"
+    },
+    {
+      "Id": "F:\\c#\\Toursim_Trail\\Tours\\wwwroot\\uploads\\7fbe7f88-c57f-4a50-a208-1e47f74510a2.png",
+      "PackagePath": "staticwebassets\\uploads\\7fbe7f88-c57f-4a50-a208-1e47f74510a2.png"
+    },
+    {
+      "Id": "F:\\c#\\Toursim_Trail\\Tours\\wwwroot\\uploads\\89d8509d-7715-43c7-8803-d1ce440a8356.png",
+      "PackagePath": "staticwebassets\\uploads\\89d8509d-7715-43c7-8803-d1ce440a8356.png"
+    },
+    {
+      "Id": "F:\\c#\\Toursim_Trail\\Tours\\wwwroot\\uploads\\9e66f7ff-1775-48fa-96e7-0a50458d4ddf.png",
+      "PackagePath": "staticwebassets\\uploads\\9e66f7ff-1775-48fa-96e7-0a50458d4ddf.png"
+    },
+    {
+      "Id": "F:\\c#\\Toursim_Trail\\Tours\\wwwroot\\uploads\\adf04bcf-231b-4d55-9b39-51a85f9b5874.png",
+      "PackagePath": "staticwebassets\\uploads\\adf04bcf-231b-4d55-9b39-51a85f9b5874.png"
+    },
+    {
+      "Id": "F:\\c#\\Toursim_Trail\\Tours\\wwwroot\\uploads\\b17221e9-adf8-4c33-89a9-9303e52b54fe.png",
+      "PackagePath": "staticwebassets\\uploads\\b17221e9-adf8-4c33-89a9-9303e52b54fe.png"
+    },
+    {
+      "Id": "F:\\c#\\Toursim_Trail\\Tours\\wwwroot\\uploads\\ed947ca2-1a39-421a-929c-11d3d4334c3e.png",
+      "PackagePath": "staticwebassets\\uploads\\ed947ca2-1a39-421a-929c-11d3d4334c3e.png"
+    },
+    {
+      "Id": "F:\\c#\\Toursim_Trail\\Tours\\wwwroot\\uploads\\efba227a-4e6b-472b-8612-0d73832b6c22.png",
+      "PackagePath": "staticwebassets\\uploads\\efba227a-4e6b-472b-8612-0d73832b6c22.png"
+    },
+    {
+      "Id": "F:\\c#\\Toursim_Trail\\Tours\\wwwroot\\uploads\\f1fe94a7-3063-47ef-ab66-f2cc4117f3fa.png",
+      "PackagePath": "staticwebassets\\uploads\\f1fe94a7-3063-47ef-ab66-f2cc4117f3fa.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Tours.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Tours.props",
+      "PackagePath": "build\\Tours.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Tours.props",
+      "PackagePath": "buildMultiTargeting\\Tours.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Tours.props",
+      "PackagePath": "buildTransitive\\Tours.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
