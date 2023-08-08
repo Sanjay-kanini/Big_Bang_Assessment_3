@@ -1,0 +1,13 @@
+.form-control {
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #0e0c0c; /* Add border style for text boxes */
+  }
+  
+  textarea.form-control {
+    resize: vertical;
+  }
+  .form-control input[type='text'] {
+    border: 1px solid #ccc;
+  }
