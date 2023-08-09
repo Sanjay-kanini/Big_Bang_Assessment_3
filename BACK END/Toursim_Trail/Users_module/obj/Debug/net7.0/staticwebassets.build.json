@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "ez/O70B/Vmetol4y5GBRKeE1zhvzWWIWeYYLFQU/AQg=",
+  "Source": "Users_module",
+  "BasePath": "_content/Users_module",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Users_module\\wwwroot",
+      "Source": "Users_module",
+      "ContentRoot": "C:\\Users\\DELL\\c#\\Toursim_Trail\\Users_module\\wwwroot\\",
+      "BasePath": "_content/Users_module",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
